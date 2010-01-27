@@ -1,8 +1,8 @@
 "all.document.toolbar.link.tooltip","Link Document","en",1
 "all.global.blogit.activateblogbyclickingbloglink.message","<b>Blog activation failed. Please activate the blog by clicking on blog link from the navbar.</b>","en",1
-"all.global.blogit.activation.errormessage","Error occurred while activating blog","en",1
+"all.global.blogit.activation.errormessage","Ошибка при активации блога","en",1
 "all.global.blogit.blogactivation.message","It is not possible to post blog entry without activating the blog. <br> Please first activate the blog by clicking on blog link from top menubar.","en",1
-"all.global.blogit.blogcomment.blank.validationmessage","Message should not be blank.","en",1
+"all.global.blogit.blogcomment.blank.validationmessage","Сообщение не должно быть пустым.","en",1
 "all.global.blogit.cannotpostblogforfolder.errormessage","You cannot post blog for folder.","en",1
 "all.global.blogit.cannotpostblogforurl.errormessage","You cannot post blog for URL.","en",1
 "all.global.blogit.checkingandredirect.error.message","Some error occured while showing the object details. Please try again.","en",1
